@@ -44,7 +44,7 @@ Full-stack web application (React + Node.js + MongoDB) for creating projects, as
 
 📧 Email: anilkumarmegavath26@gmail.com
 
-💼 LinkedIn: Anil Megavath
+💼 LinkedIn: https://www.linkedin.com/in/anil-megavath-0777232a5
 
 
 
